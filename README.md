@@ -31,3 +31,7 @@ If you have any problem in this project, raise issues or contact me at connect.w
 If you find it helpful, Fork it and Give me star and follow me.
 
 Thank you for choosing my work.
+
+# Support Me
+Buy me Coffee
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y028S3X)
