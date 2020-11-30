@@ -6,6 +6,7 @@ logs here : http://devsay.rf.gd/note.php
 Advanced Feedback System for website written in _PHP MySQL and HTML_.
 Easy to setup in one click helps you to save lot of time.
 
+![Visits Badge](https://badges.pufler.dev/visits/devesh7272/Feedback-System)
 # Features
 Installation Instruction on ZIP file to help
 - __Interactive__ Clients interface
