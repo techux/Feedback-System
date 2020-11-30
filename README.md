@@ -15,7 +15,9 @@ Installation Instruction on ZIP file to help
 - __Track User location__ on clicking IP address
 - Auto __Log date and time__ of Submission
 - Log _phone number_, _email address_, etc
-
+- Demo 
+  - Main : http://devsay.rf.gd
+  - Logs : http://devsay.rf.gd/note.php
 ### What to log 
 - Name 
 - Email
