@@ -1,7 +1,7 @@
 # Feedback System
-Demo : http://devsay.rf.gd
+Demo : ~http://devsay.rf.gd~
 
-logs here : http://devsay.rf.gd/note.php
+logs here : ~http://devsay.rf.gd/note.php~
 
 Advanced Feedback System for website written in _PHP MySQL and HTML_.
 Easy to setup in one click helps you to save lot of time.
@@ -17,8 +17,8 @@ Installation Instruction on ZIP file to help
 - Auto __Log date and time__ of Submission
 - Log _phone number_, _email address_, etc
 - Demo 
-  - Main : http://devsay.rf.gd
-  - Logs : http://devsay.rf.gd/note.php
+  - Main : ~http://devsay.rf.gd~
+  - Logs : ~http://devsay.rf.gd/note.php~
 ### What to log 
 - Name 
 - Email
@@ -32,7 +32,3 @@ If you have any problem in this project, raise issues or contact me at connect.w
 If you find it helpful, Fork it and Give me star and follow me.
 
 Thank you for choosing my work.
-
-# Support Me
-Buy me Coffee
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y028S3X)
